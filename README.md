@@ -116,11 +116,16 @@ The projects use portable paths based on their own project directories, so they 
 
 CODSOFT Machine Learning Internship
 
+## Repository Structure
 
+```text
+codsoft_tasks/
+├── Task-1-Movie-Genre-Classification/
+├── Task-3-Customer-Churn-Prediction/
+├── Task-4-SMS-Spam-Detection/
+├── README.md
+└── .gitignore
 
 \## Author
 
-
-
-Freakyyy
-
+Sharvan M
